@@ -21,9 +21,9 @@ const IndexPage = () => (
     <p>
       Clone the forked repository to your local machine. Click on the big green button saying "Clone or download" and copy the https url of your repository.
       Fire up the terminal (on linux systems ctrl+alt+t. on Windows open the <a target="_blank" href="https://git-scm.com/download/win">Git-bash</a> ) navigate to your desired directory and type the following command. Replace the link with the clone URL of your repository and hit Enter.
-      <Code code="git clone https://github.com/YOUR_USERNAME/GitMe.git"/>
+      <Code code="git clone https://github.com/YOUR_USERNAME/Pull-A-Code.git"/>
     </p>
-    <h3>Step 3</h3>
+   <h3>Step 3</h3>
     <p>
       Let's start working on the changes required now! First cd into the cloned folder by typing the following command.
       <Code code="cd GitMe"/>
