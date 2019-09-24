@@ -4,13 +4,16 @@ import Code from '../components/syntax'
 
 const IndexPage = () => (
   <div>
+  <!-- Place this tag in your head or just before your close body tag. -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
     <h1>Hello Developers! &nbsp;<i className="em em-wave"></i></h1>
     <h3>Let's help you submit your first Pull Request.</h3>
     <p>Once your pull request is being merged, your profile will be visible in the <Link to="/submissions/">Submissions </Link>
     section of this page. For this exercise you'll be adding a new entry to the source code of this website with your profile details. 
       Excited? <i className="em em-grinning_face_with_star_eyes"></i> let's begin!
     </p>
-    
+    <!-- Place this tag where you want the button to render. -->
+     <a class="github-button" href="https://github.com/aggarwalpulkit596" data-size="large" aria-label="Follow @aggarwalpulkit596 on GitHub">Follow @aggarwalpulkit596</a>
     <h3>Step 1</h3>
     <p>
       Goto the <a target="_blank" href="https://github.com/aggarwalpulkit596/Pull-A-Code"> GitHub repository </a> of this project and fork the project to your account. <i className="em em-knife_fork_plate"></i>  
