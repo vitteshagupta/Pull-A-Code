@@ -1,4 +1,4 @@
 ---
 username: vermakhushboo
-fullname:Khusbhoo Verma
+fullname: Khusbhoo Verma
 ---
