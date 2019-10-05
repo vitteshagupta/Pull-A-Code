@@ -25,14 +25,13 @@ const IndexPage = () => (
    <h3>Step 3</h3>
     <p>
       Let's start working on the changes required now! First cd into the cloned folder by typing the following command.
-      <Code code="cd GitMe"/>
+      <Code code="cd Pull-A-Code"/>
       Now, Before jumping in to the code, make sure you're working on a different branch and not in master. To create a new branch, 
       from the terminal inside your current project directory type the following command.
-      <Code code="git branch YOUR_USERNAME-profile"/>
-      Replace the <i>YOUR_USERNAME</i> with your GitHub username or you can give any name to your branch which describes the purpose of the branch. Since here we're adding your profile,
+      You can give any name to your branch which describes the purpose of the branch. Since here we're adding your profile,
       we'll simply give the name of the branch as above. eg: <i>git branch pulkit-profile</i>. Once you have created the new branch we'll change the current brach from master to your newly created branch.
       Execute the following command on your terminal.
-      <Code code="git checkout YOUR_BRANCH_NAME"/>
+      <Code code="git checkout -b YOUR_BRANCH_NAME"/>
     </p>
     <h3>Step 4</h3>
     <p>
